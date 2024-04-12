@@ -1,3 +1,5 @@
+![Banner](Banner.png)
+
 # Proyecto 1 - Algoritmo de sistema de costos
 
 Para este primer proyecto se aplicaron los conceptos de algoritmos, programación estructurada, control de flujo, arreglos y el uso de Git y GitHub.
